@@ -1,3 +1,4 @@
 .vscode
 backend/venv
 frontend/node_modules
+http://localhost:5173/
